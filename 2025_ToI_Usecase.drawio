@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="페이지-1" id="tUya4GqgupcTnaYld52O">
-    <mxGraphModel dx="1453" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2010" dy="2547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="1232" y="1279" width="376" height="194" as="geometry" />
         </mxCell>
         <mxCell id="XSOK0T-FbrCkJ5V0vqbv-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;알림 전송 결과 확인&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="XSOK0T-FbrCkJ5V0vqbv-1" vertex="1">
-          <mxGeometry x="1862" y="1604" width="376" height="194" as="geometry" />
+          <mxGeometry x="1232" y="1604" width="376" height="194" as="geometry" />
         </mxCell>
         <mxCell id="XSOK0T-FbrCkJ5V0vqbv-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;위치 권한 요청&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="XSOK0T-FbrCkJ5V0vqbv-1" vertex="1">
           <mxGeometry x="1241" y="335" width="376" height="194" as="geometry" />
